@@ -25,6 +25,7 @@ Atualmente, estou mergulhando no mundo de **Node.js**, **Express** e **MongoDB**
 - **APIs RESTful** com **Express.js**.
 - **Autenticação** com **JWT** e **OAuth**.
 - **Integração com MongoDB** para dados não-relacionais.
+- **Integração do Mysql** para bancos de dados relacionais.
 
 ---
 
